@@ -358,3 +358,8 @@ B.	służą przy prostych metodach rozwiązania problemu
 C.	należą do algorytmów dokładnych.
 D.	cechują się bardzo duża szybkością działania (poprawna odpowiedź)
 
+66. Na czym polega funkcja rekurencyjna ? (Kamil Łyczywek)
+a) Nie zwraca żadnej wartości.
+b) Wywołuje inne funkcje.
+c) Wywołuje ona samą siebie. (prawidłowa odpowiedź)
+d) Zwraca kilka wartości.
